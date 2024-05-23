@@ -1,0 +1,28 @@
+{
+  "name": "protax",
+  "version": "2.0.0",
+  "description": "Tax BOT By Ahmed Clipper - dsc.gg/clipper-tv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "RA'AD-TEAM",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^13.3.1",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "weird-to-normal-chars": "^1.8.3",
+    "@discordjs/voice": "^0.17.0"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  }
+}
